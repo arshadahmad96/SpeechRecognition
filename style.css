@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(to left,red,black);
+}
+p{
+    font-size: 25px;
+    color: white;
+}
